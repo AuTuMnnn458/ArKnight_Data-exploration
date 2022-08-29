@@ -155,9 +155,25 @@ Excel中初步处理，并画出一些图的趋势线：
 | 89  | 1669 | 539 | 161 | 0    |   | 4   | 1  | 0  | 0    |
 | 90  | 1673 | 540 | 161 | 0    |
 
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B10%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7.png" >图1 能天使精英0 等级-属性 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B11%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7.png" >图2 能天使精英1 等级-属性 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B12%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7.png" >图3 能天使精英2 等级-属性</center></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B10%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图4 能天使精英0 等级-属性成长量.png </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B11%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图5 能天使精英1 等级-属性成长量.png </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B12%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图6 能天使精英2 等级-属性成长量.png </center></td>
+    </tr>
+</table>
+
 ### 3.3 干员属性与职业定位分析
 
-
+<td ><center><img src="" >图6  </center></td>
 ## 4 攻防公式
 
 ### 4.1 物理伤害公式推导与分析
