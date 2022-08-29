@@ -209,51 +209,51 @@ Excel中初步处理，并画出一些图的趋势线：
 * 银灰：
 <table>
     <tr>
-        <td ><center><img src="" >图1 星熊精英0 等级-属性 </center></td>
-        <td ><center><img src="" >图2 星熊精英1 等级-属性 </center></td>
-        <td ><center><img src="" >图3 星熊精英2 等级-属性</center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E9%93%B6%E7%81%B0%E7%B2%BE%E8%8B%B10%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7.png" >图1 银灰精英0 等级-属性 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E9%93%B6%E7%81%B0%E7%B2%BE%E8%8B%B11%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7.png" >图2 银灰精英1 等级-属性 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E9%93%B6%E7%81%B0%E7%B2%BE%E8%8B%B12%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7.png" >图3 银灰精英2 等级-属性</center></td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <td ><center><img src="" >图4 星熊精英0 等级-属性成长量 </center></td>
-        <td ><center><img src="" >图5 星熊精英1 等级-属性成长量 </center></td>
-        <td ><center><img src="" >图6 星熊精英2 等级-属性成长量 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E9%93%B6%E7%81%B0%E7%B2%BE%E8%8B%B10%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图4 银灰精英0 等级-属性成长量 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E9%93%B6%E7%81%B0%E7%B2%BE%E8%8B%B11%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图5 银灰精英1 等级-属性成长量 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E9%93%B6%E7%81%B0%E7%B2%BE%E8%8B%B12%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图6 银灰精英2 等级-属性成长量 </center></td>
     </tr>
 </table>   
     
 * 艾雅法拉：
 <table>
     <tr>
-        <td ><center><img src="" >图1 星熊精英0 等级-属性 </center></td>
-        <td ><center><img src="" >图2 星熊精英1 等级-属性 </center></td>
-        <td ><center><img src="" >图3 星熊精英2 等级-属性</center></td>
+        <td ><center><img src="" >图1 艾雅法拉精英0 等级-属性 </center></td>
+        <td ><center><img src="" >图2 艾雅法拉精英1 等级-属性 </center></td>
+        <td ><center><img src="" >图3 艾雅法拉精英2 等级-属性</center></td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <td ><center><img src="" >图4 星熊精英0 等级-属性成长量 </center></td>
-        <td ><center><img src="" >图5 星熊精英1 等级-属性成长量 </center></td>
-        <td ><center><img src="" >图6 星熊精英2 等级-属性成长量 </center></td>
+        <td ><center><img src="" >图4 艾雅法拉精英0 等级-属性成长量 </center></td>
+        <td ><center><img src="" >图5 艾雅法拉精英1 等级-属性成长量 </center></td>
+        <td ><center><img src="" >图6 艾雅法拉精英2 等级-属性成长量 </center></td>
     </tr>
 </table>   
 
 * 闪灵：
 <table>
     <tr>
-        <td ><center><img src="" >图1 星熊精英0 等级-属性 </center></td>
-        <td ><center><img src="" >图2 星熊精英1 等级-属性 </center></td>
-        <td ><center><img src="" >图3 星熊精英2 等级-属性</center></td>
+        <td ><center><img src="" >图1 闪灵精英0 等级-属性 </center></td>
+        <td ><center><img src="" >图2 闪灵精英1 等级-属性 </center></td>
+        <td ><center><img src="" >图3 闪灵精英2 等级-属性</center></td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <td ><center><img src="" >图4 星熊精英0 等级-属性成长量 </center></td>
-        <td ><center><img src="" >图5 星熊精英1 等级-属性成长量 </center></td>
-        <td ><center><img src="" >图6 星熊精英2 等级-属性成长量 </center></td>
+        <td ><center><img src="" >图4 闪灵精英0 等级-属性成长量 </center></td>
+        <td ><center><img src="" >图5 闪灵精英1 等级-属性成长量 </center></td>
+        <td ><center><img src="" >图6 闪灵精英2 等级-属性成长量 </center></td>
     </tr>
 </table>   
     
