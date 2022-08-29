@@ -24,15 +24,14 @@
 | 120 | 135 | 100000 | 2936990 |
 
 Excel中初步处理，并画出一些图的趋势线：
-<center>
-<figure>
-<img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E7%AD%89%E7%BA%A7-%E5%8D%87%E7%BA%A7%E6%89%80%E9%9C%80%E5%A3%B0%E6%9C%9B.png" />
-·
-·
-·
-<img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E7%AD%89%E7%BA%A7-%E7%B4%AF%E8%AE%A1%E5%A3%B0%E6%9C%9B.png" />
-</figure>
+
+<center class="half">
+<img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E7%AD%89%E7%BA%A7-%E5%8D%87%E7%BA%A7%E6%89%80%E9%9C%80%E5%A3%B0%E6%9C%9B.png" width = "300px"/>
+
+<img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E7%AD%89%E7%BA%A7-%E7%B4%AF%E8%AE%A1%E5%A3%B0%E6%9C%9B.png" width = "300px"/>
 </center>
+
+
 
 
 ### 2.2 干员升级经验
