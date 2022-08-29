@@ -226,17 +226,17 @@ Excel中初步处理，并画出一些图的趋势线：
 * 艾雅法拉：
 <table>
     <tr>
-        <td ><center><img src="" >图1 艾雅法拉精英0 等级-属性 </center></td>
-        <td ><center><img src="" >图2 艾雅法拉精英1 等级-属性 </center></td>
-        <td ><center><img src="" >图3 艾雅法拉精英2 等级-属性</center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89%E7%B2%BE%E8%8B%B10%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7.png" >图1 艾雅法拉精英0 等级-属性 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89%E7%B2%BE%E8%8B%B11%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7.png" >图2 艾雅法拉精英1 等级-属性 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89%E7%B2%BE%E8%8B%B12%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7.png" >图3 艾雅法拉精英2 等级-属性</center></td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <td ><center><img src="" >图4 艾雅法拉精英0 等级-属性成长量 </center></td>
-        <td ><center><img src="" >图5 艾雅法拉精英1 等级-属性成长量 </center></td>
-        <td ><center><img src="" >图6 艾雅法拉精英2 等级-属性成长量 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89%E7%B2%BE%E8%8B%B10%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图4 艾雅法拉精英0 等级-属性成长量 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89%E7%B2%BE%E8%8B%B11%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图5 艾雅法拉精英1 等级-属性成长量 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89%E7%B2%BE%E8%8B%B12%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图6 艾雅法拉精英2 等级-属性成长量 </center></td>
     </tr>
 </table>   
 
