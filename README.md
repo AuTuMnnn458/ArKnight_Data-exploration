@@ -154,7 +154,8 @@ Excel中初步处理，并画出一些图的趋势线：
 | 88  | 1665 | 538 | 160 | 0    |   | 4   | 1  | 1  | 0    |
 | 89  | 1669 | 539 | 161 | 0    |   | 4   | 1  | 0  | 0    |
 | 90  | 1673 | 540 | 161 | 0    |
-
+    
+* 能天使：
 <table>
     <tr>
         <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B10%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7.png" >图1 能天使精英0 等级-属性 </center></td>
@@ -165,15 +166,99 @@ Excel中初步处理，并画出一些图的趋势线：
 
 <table>
     <tr>
-        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B10%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图4 能天使精英0 等级-属性成长量.png </center></td>
-        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B11%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图5 能天使精英1 等级-属性成长量.png </center></td>
-        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B12%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图6 能天使精英2 等级-属性成长量.png </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B10%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图4 能天使精英0 等级-属性成长量 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B11%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图5 能天使精英1 等级-属性成长量 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B12%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图6 能天使精英2 等级-属性成长量 </center></td>
     </tr>
 </table>
 
+* 推进之王：
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E6%8E%A8%E8%BF%9B%E4%B9%8B%E7%8E%8B%E7%B2%BE%E8%8B%B10%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7.png" >图1 推进之王精英0 等级-属性 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E6%8E%A8%E8%BF%9B%E4%B9%8B%E7%8E%8B%E7%B2%BE%E8%8B%B11%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7.png" >图2 推进之王精英1 等级-属性 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E6%8E%A8%E8%BF%9B%E4%B9%8B%E7%8E%8B%E7%B2%BE%E8%8B%B12%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7.png" >图3 推进之王精英2 等级-属性</center></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E6%8E%A8%E8%BF%9B%E4%B9%8B%E7%8E%8B%E7%B2%BE%E8%8B%B10%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图4 推进之王精英0 等级-属性成长量 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E6%8E%A8%E8%BF%9B%E4%B9%8B%E7%8E%8B%E7%B2%BE%E8%8B%B11%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图5 推进之王精英1 等级-属性成长量 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E6%8E%A8%E8%BF%9B%E4%B9%8B%E7%8E%8B%E7%B2%BE%E8%8B%B12%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图6 推进之王精英2 等级-属性成长量 </center></td>
+    </tr>
+</table>
+
+* 星熊：
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E6%98%9F%E7%86%8A%E7%B2%BE%E8%8B%B10%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7.png" >图1 星熊精英0 等级-属性 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E6%98%9F%E7%86%8A%E7%B2%BE%E8%8B%B11%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7.png" >图2 星熊精英1 等级-属性 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E6%98%9F%E7%86%8A%E7%B2%BE%E8%8B%B12%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7.png" >图3 星熊精英2 等级-属性</center></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E6%98%9F%E7%86%8A%E7%B2%BE%E8%8B%B10%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图4 星熊精英0 等级-属性成长量 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E6%98%9F%E7%86%8A%E7%B2%BE%E8%8B%B11%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图5 星熊精英1 等级-属性成长量 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E6%98%9F%E7%86%8A%E7%B2%BE%E8%8B%B12%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F.png" >图6 星熊精英2 等级-属性成长量 </center></td>
+    </tr>
+</table>    
+    
+* 银灰：
+<table>
+    <tr>
+        <td ><center><img src="" >图1 星熊精英0 等级-属性 </center></td>
+        <td ><center><img src="" >图2 星熊精英1 等级-属性 </center></td>
+        <td ><center><img src="" >图3 星熊精英2 等级-属性</center></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td ><center><img src="" >图4 星熊精英0 等级-属性成长量 </center></td>
+        <td ><center><img src="" >图5 星熊精英1 等级-属性成长量 </center></td>
+        <td ><center><img src="" >图6 星熊精英2 等级-属性成长量 </center></td>
+    </tr>
+</table>   
+    
+* 艾雅法拉：
+<table>
+    <tr>
+        <td ><center><img src="" >图1 星熊精英0 等级-属性 </center></td>
+        <td ><center><img src="" >图2 星熊精英1 等级-属性 </center></td>
+        <td ><center><img src="" >图3 星熊精英2 等级-属性</center></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td ><center><img src="" >图4 星熊精英0 等级-属性成长量 </center></td>
+        <td ><center><img src="" >图5 星熊精英1 等级-属性成长量 </center></td>
+        <td ><center><img src="" >图6 星熊精英2 等级-属性成长量 </center></td>
+    </tr>
+</table>   
+
+* 闪灵：
+<table>
+    <tr>
+        <td ><center><img src="" >图1 星熊精英0 等级-属性 </center></td>
+        <td ><center><img src="" >图2 星熊精英1 等级-属性 </center></td>
+        <td ><center><img src="" >图3 星熊精英2 等级-属性</center></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td ><center><img src="" >图4 星熊精英0 等级-属性成长量 </center></td>
+        <td ><center><img src="" >图5 星熊精英1 等级-属性成长量 </center></td>
+        <td ><center><img src="" >图6 星熊精英2 等级-属性成长量 </center></td>
+    </tr>
+</table>   
+    
 ### 3.3 干员属性与职业定位分析
 
-<td ><center><img src="" >图6  </center></td>
 ## 4 攻防公式
 
 ### 4.1 物理伤害公式推导与分析
