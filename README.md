@@ -260,6 +260,16 @@ Excel中初步处理，并画出一些图的趋势线：
 * 可以看到精英化的过程是不增加生命上限、攻击和防御数值的，如精英0的50级与精英1的1级的该三项数值相同。但是法术抗性的成长只会出现在这个点，如艾雅法拉精英0的50级法抗为10，而精英1的50级法抗为15。 
 * 可以从多个等级成长量的图发现，属性的增长曲线**等价于一个线性函数**，或者说，是一个**多段组合起来的分段线性函数**，增长速度等价于线性函数。这样设计的目的是防止数据增长过快，数值不会出现膨胀现象。如果使用指数函数类型的模型（多见于一些高数值成长类型的游戏），会出现数值膨胀现象。而明日方舟作为一款中低数值成长的游戏，**使用线性模型可以有效防止数值膨胀**，减少高低级玩家数值的差异。
     
+我们以能天使的数据为例子，进一步分析建模方法。我们把法术抗性这一属性曲线去掉（因为全等级均为0），然后每一个阶段都用趋势线逼近，得到如下的图。其余干员的数据也可以使用类似的方法进行分析。    
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B10%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%20%E8%B6%8B%E5%8A%BF%E7%BA%BF.png" >图1 能天使精英0 等级-属性 趋势线 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B11%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%20%E8%B6%8B%E5%8A%BF%E7%BA%BF.png" >图2 能天使精英1 等级-属性 趋势线 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B12%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%20%E8%B6%8B%E5%8A%BF%E7%BA%BF.png" >图3 能天使精英2 等级-属性 趋势线 </center></td>
+    </tr>
+</table>    
+    
+    
 ### 3.3 干员属性与职业定位分析
 综合6位干员的4项属性，我们得到如下的图：
 <table>
