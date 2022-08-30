@@ -275,6 +275,9 @@ Excel中初步处理，并画出一些图的趋势线：
         <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/6%E4%BA%BA%E7%AD%89%E7%BA%A7-%E6%B3%95%E6%9C%AF%E6%8A%97%E6%80%A7.png" >图4 6人等级-法术抗性 </center></td>
     </tr>
 </table> 
+
+我们根据4个属性来分析职业定位：
+* 生命上限：星熊>银灰>推进之王>能天使≈闪灵≈艾雅法拉。总体上：地面干员>高台干员
 ## 4 攻防公式
 
 ### 4.1 物理伤害公式推导与分析
