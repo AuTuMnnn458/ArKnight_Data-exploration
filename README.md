@@ -259,12 +259,20 @@ Excel中初步处理，并画出一些图的趋势线：
 
 * 可以看到精英化的过程是不增加生命上限、攻击和防御数值的，如精英0的50级与精英1的1级的该三项数值相同。但是法术抗性的成长只会出现在这个点，如艾雅法拉精英0的50级法抗为10，而精英1的50级法抗为15。 
     
-我们以能天使的数据为例子，进一步分析建模方法。我们把法术抗性这一属性曲线去掉（因为全等级均为0），然后每一个阶段都用趋势线逼近，得到如下的图。其余干员的数据也可以使用类似的方法进行分析。    
+我们以能天使的数据为例子，进一步分析建模方法。我们汇总能天使全等级数据，隐藏了精英化导致的相同数据的等级，得到图1和图2。然后我们把法术抗性这一属性曲线去掉（因为全等级均为0），然后每一个阶段都用趋势线逼近，得到如下的图3、4、5。其余干员的数据也可以使用类似的方法进行分析。  
+    
 <table>
     <tr>
-        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B10%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%20%E8%B6%8B%E5%8A%BF%E7%BA%BF.png" >图1 能天使精英0 等级-属性 趋势线 </center></td>
-        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B11%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%20%E8%B6%8B%E5%8A%BF%E7%BA%BF.png" >图2 能天使精英1 等级-属性 趋势线 </center></td>
-        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B12%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%20%E8%B6%8B%E5%8A%BF%E7%BA%BF.png" >图3 能天使精英2 等级-属性 趋势线 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E6%9B%B2%E7%BA%BF.png" >图1 能天使属性成长曲线</center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E5%B1%9E%E6%80%A7%E6%88%90%E9%95%BF%E9%87%8F%E5%88%86%E5%B8%83.png" >图2 能天使属性成长量分布 </center></td>
+    </tr>
+</table>       
+   
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B10%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%20%E8%B6%8B%E5%8A%BF%E7%BA%BF.png" >图3 能天使精英0 等级-属性 趋势线 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B11%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%20%E8%B6%8B%E5%8A%BF%E7%BA%BF.png" >图4 能天使精英1 等级-属性 趋势线 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/%E8%83%BD%E5%A4%A9%E4%BD%BF%E7%B2%BE%E8%8B%B12%20%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7%20%E8%B6%8B%E5%8A%BF%E7%BA%BF.png" >图5 能天使精英2 等级-属性 趋势线 </center></td>
     </tr>
 </table>    
     
