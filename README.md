@@ -259,10 +259,22 @@ Excel中初步处理，并画出一些图的趋势线：
 
 * 可以看到精英化的过程是不增加生命上限、攻击和防御数值的，如精英0的50级与精英1的1级的该三项数值相同。但是法术抗性的成长只会出现在这个点，如艾雅法拉精英0的50级法抗为10，而精英1的50级法抗为15。 
 * 可以从多个等级成长量的图发现，属性的增长曲线**等价于一个线性函数**，或者说，是一个**多段组合起来的分段线性函数**，增长速度等价于线性函数。这样设计的目的是防止数据增长过快，数值不会出现膨胀现象。如果使用指数函数类型的模型（多见于一些高数值成长类型的游戏），会出现数值膨胀现象。而明日方舟作为一款中低数值成长的游戏，**使用线性模型可以有效防止数值膨胀**，减少高低级玩家数值的差异。
-   
     
 ### 3.3 干员属性与职业定位分析
-
+综合6位干员的4项属性，我们得到如下的图：
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/6%E4%BA%BA%E7%AD%89%E7%BA%A7-%E7%94%9F%E5%91%BD%E4%B8%8A%E9%99%90.png" >图1 6人等级-生命上限 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/6%E4%BA%BA%E7%AD%89%E7%BA%A7-%E6%94%BB%E5%87%BB.png" >图2 6人等级-攻击 </center></td>
+    </tr>
+</table> 
+    
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/6%E4%BA%BA%E7%AD%89%E7%BA%A7-%E9%98%B2%E5%BE%A1.png" >图3 6人等级-防御 </center></td>
+        <td ><center><img src="https://github.com/AuTuMnnn458/ArKnight_Data-exploration/blob/main/pictures/6%E4%BA%BA%E7%AD%89%E7%BA%A7-%E6%B3%95%E6%9C%AF%E6%8A%97%E6%80%A7.png" >图4 6人等级-法术抗性 </center></td>
+    </tr>
+</table> 
 ## 4 攻防公式
 
 ### 4.1 物理伤害公式推导与分析
